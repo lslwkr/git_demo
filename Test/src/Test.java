@@ -6,8 +6,9 @@ public class Test {
 		// TODO Auto-generated method stub
         // add something in MB1 br
 		// delete todo in MASTER1
-		// add something in MB1 BR2
+		
 		// delete "add some" in MASTER2
+		// delete "add some" in MASTER3
 	}
 
 }
