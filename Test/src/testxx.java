@@ -8,5 +8,11 @@
  * @email jerr.lin@sap.com
  */
 public class testxx {
+	
+	
+	public static void main(String[] args)
+	{
+		
+	}
 
 }
